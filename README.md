@@ -9,6 +9,11 @@ A browser-based zombie defense shooter built with <strong>Unity + C#</strong>, f
 👉 <a href="https://lcwnvgp.github.io/shoot-the-zombie/gold">https://lcwnvgp.github.io/shoot-the-zombie/gold</a>
 </p>
 
+<h2 style="font-size:28px">🎥 Demo Video</h2>
+<p style="font-size:18px">
+👉 <a href="https://youtu.be/imcoqHgY5BA">https://youtu.be/imcoqHgY5BA</a>
+</p>
+
 <h2 style="font-size:28px">📝 Overview</h2>
 <p style="font-size:18px">
 Shoot the Zombie is a fast-paced WebGL zombie defense game where players combine precise shooting, color strategy, and tower upgrades to survive increasingly difficult waves.  
